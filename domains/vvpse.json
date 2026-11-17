@@ -1,0 +1,12 @@
+{
+  "name": "vvpse",
+  "description": "My services site",
+  "owner": {
+    "username": "vvpsedevelop",
+    "email": "linka.comp@gmail.com"
+  },
+  "record": {
+    "CNAME": "vvpse.pages.dev"
+  },
+  "proxied": true
+}
